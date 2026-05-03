@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Goran (friends call me Gogsi).
-- 🌱 I’m a Digital Marketer & Programming enthusiast.
--  👨🏻‍💻 I’m currently building a Web App with NextJS, Word Press, and Postgres/Supabase.
+- 🌱 I’m a programming enthusiast.
+-  👨🏻‍💻 I’m currently building a SaaS using NextJS, Word Press, and Postgres/Supabase.
 - 💞️ Interest include, but not limited to Gardening, Investing, eCommerce, Learning and Soccer.
 
 <!---
